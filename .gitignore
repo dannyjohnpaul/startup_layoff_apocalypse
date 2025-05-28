@@ -1,0 +1,27 @@
+# Raw data
+data/raw/*.csv
+data/raw/*.xlsx
+
+# Cleaned data
+data/cleaned/*.csv
+data/cleaned/*.xlsx
+
+# Jupyter checkpoints and outputs
+.ipynb_checkpoints/
+outputs/
+
+# Python cache & environment stuff
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+
+# IDE configs
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
